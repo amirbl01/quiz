@@ -2,7 +2,7 @@
    "response_code":0,
    "results":[
       {
-         "category":"General Knowledge",
+         "category":"PSPO1",
          "type":"multiple",
          "difficulty":"easy",
          "question":"amirrrrrrr Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
@@ -14,7 +14,7 @@
          ]
       },
       {
-         "category":"Entertainment: Music",
+         "category":"PSMI",
          "type":"multiple",
          "difficulty":"easy",
          "question":"Who had a 1983 hit with the song &#039;Africa&#039;?",
