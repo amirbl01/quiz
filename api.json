@@ -5,12 +5,12 @@
          "category":"PSPO1",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"amirrrrrrr Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-         "correct_answer":"Richard Branson",
+         "question":"Which approach is best for Scrum Team in order to produce valuable Increments?   ",
+         "correct_answer":"Each Scrum Team is accountable for developing functionality from beginning to end.",
          "incorrect_answers":[
-            "Alan Sugar",
-            "Donald Trump",
-            "Bill Gates"
+            "Each Scrum Team works on an independent set of components.",
+            "Each Scrum Team Member work only as an independent layer of the system.",
+            "Each Developer works on the component where they feel that they can contribute."
          ]
       },
       {
