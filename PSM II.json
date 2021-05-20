@@ -3,15 +3,19 @@
    "response_code":0,
    "results":[
       {
-         "category":"General Knowledge",
+         "category":"PMS 2",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"PSM 222222222 Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-         "correct_answer":"Richard Branson",
+         "question":"During the Sprint, the Scrum Master’s role is to do which two of the following",
+         "correct_answer":[
+            "Facilitate inspection and adaption opportunities as requested or needed.",
+            "Coaching the team members in self-management."
+            ]
          "incorrect_answers":[
-            "Alan Sugar",
-            "Donald Trump",
-            "Bill Gates"
+            "Escalate team conflicts to functional line managers",
+            "Assign tasks with the Scrum team.",
+            "Ensure the Product Owner Scrum Team.",
+            "Monitor the progress of the Developers." 
          ]
       },
       {
