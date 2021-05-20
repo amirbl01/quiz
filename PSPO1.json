@@ -69,23 +69,28 @@
          "type":"multiple",
          "difficulty":"easy",
          "question":"What might indicate to a Product Owner that she needs to work more with the Scrum Team?",
-         "correct_answer":"Lewis Hamilton",
+         "correct_answer":"The Increment presented at the Sprint Review does not what she thought she had asked for.",
          "incorrect_answers":[
-            "Nico Rosberg",
-            "Sebastian Vettel",
-            "Jenson Button"
+            "The acceptance criteria do not appear to be complete.",
+            "People leave the Scrum Team.",
+            "She is not working full time with the Scrum Team."
          ]
       },
       {
-         "category":"Entertainment: Video Games",
+         "category":"PSPO 1",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"How many flagship monsters appear in Monster Hunter Gernerations?",
-         "correct_answer":"4",
+         "question":"A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog?
+•	Stability requirements.
+•	Performance requirements
+•	Product Functionality.
+•	Documentation.
+•	Fixes.
+",
+         "correct_answer":"Yes, they all belong on the Product Backlog. The Product Backlog is supposed to be the “single source of truth” for all the work for the product.",
          "incorrect_answers":[
-            "1",
-            "2",
-            "3"
+            "No, Product Backlog is a tool for the Product Owner. The Product Owner represents the users and stakeholders. Other types of requirements should be managed separately by the Developers. They are not the Product Owner’s concern.",
+            
          ]
       },
       {
