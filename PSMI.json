@@ -10,15 +10,16 @@
          "correct_answer":"The event can take no more than a maximum amount of time.",
          "incorrect_answers":[
             "The event must happen by a given time.",
-            "The event must happen at a set time."
+            "The event must happen at a set time.",
+            "The event must take at least a minimum amount of time"
          ]
       },
       {
          "category":"Entertainment: Music",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"Who had a 1983 hit with the song &#039;Africa&#039;?",
-         "correct_answer":"Toto",
+         "question":"When many Scrum Teams are working on a single product, what best describes the Definition of Done?",
+         "correct_answer":"d)	Each Scrum Team defines and uses its own, the differences are discussed and reconciled during a hardening Sprint",
          "incorrect_answers":[
             "Foreigner",
             "Steely Dan",
