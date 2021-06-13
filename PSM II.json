@@ -6,10 +6,10 @@
          "category":"PMS 2",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"During the Sprint, the Scrum Master’s role is to do which two of the following",
+         "question":"During the Sprint, the Scrum Master’s role is to do which two of the following ",
          "correct_answer":[
             "Facilitate inspection and adaption opportunities as requested or needed.",
-            "Coaching the team members in self-management."
+            
             ]
          "incorrect_answers":[
             "Escalate team conflicts to functional line managers",
