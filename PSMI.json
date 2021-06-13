@@ -28,7 +28,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"Science & Nature",
           "type":"multiple",
           "difficulty":"easy",
           "question":"Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the quality of the product. What are two good options for the Scrum Master?",
@@ -42,7 +42,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"Celebrities",
           "type":"multiple",
           "difficulty":"easy",
           "question":"The length of a Sprint should be:",
@@ -55,7 +55,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"History",
           "type":"multiple",
           "difficulty":"easy",
           "question":"Which statement best describes the Sprint Review?",
@@ -67,7 +67,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"Sports",
           "type":"multiple",
           "difficulty":"easy",
           "question":"A Scrum Team is a cohesive unit of professionals that consists of which of the following?",
@@ -80,7 +80,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"Entertainment: Video Games",
           "type":"multiple",
           "difficulty":"easy",
           "question":"Why do the Developers need a Sprint Goal?",
@@ -95,7 +95,7 @@
        
        
        {
-          "category":"PSM1",
+          "category":"Entertainment: Video Games",
           "type":"multiple",
           "difficulty":"easy",
           "question":"What activities would a Product Owner typically undertake in the period between the end of the current Sprint and the start of the next Sprint?",
@@ -107,7 +107,7 @@
           ]
        },
        {
-          "category":"PSM1",
+          "category":"Entertainment: Music",
           "type":"multiple",
           "difficulty":"easy",
           "question":"The IT manager asks a Scrum Team for a status report describing the progress throughout the Sprint. The Scrum Team asks the Scrum Master for advice. The Scrum Master should:",
@@ -122,7 +122,7 @@
        }
              ,
        {
-          "category":"PSM1",
+          "category":"Entertainment: Music",
           "type":"multiple",
           "difficulty":"easy",
           "question":"How should a Scrum Team deal with non-functional requirements?",
@@ -145,7 +145,7 @@
         ]
      },
      {
-        "category":"PSM1",
+        "category":"Entertainment: Music",
         "type":"multiple",
         "difficulty":"easy",
         "question":"Who must attend the Daily Scrum?",
@@ -159,7 +159,7 @@
         ]
      },
      {
-        "category":"PSM1",
+        "category":"Science & Nature",
         "type":"multiple",
         "difficulty":"easy",
         "question":"Which technique is the best way the Scrum Master can ensure that the Developers communicate effectively with the Product Owner?",
