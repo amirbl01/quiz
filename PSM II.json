@@ -7,10 +7,10 @@
          "type":"multiple",
          "difficulty":"easy",
          "question":"During the Sprint, the Scrum Master’s role is to do which two of the following ",
-         "correct_answer":[
+         "correct_answer":
             "Facilitate inspection and adaption opportunities as requested or needed.",
             
-            ]
+            
          "incorrect_answers":[
             "Escalate team conflicts to functional line managers",
             "Assign tasks with the Scrum team.",
@@ -19,15 +19,15 @@
          ]
       },
       {
-         "category":"Entertainment: Music",
+         "category":"PSM2",
          "type":"multiple",
          "difficulty":"easy",
-         "question":"Who had a 1983 hit with the song &#039;Africa&#039;?",
-         "correct_answer":"Toto",
+         "question":"Every Scrum Team should have ",
+         "correct_answer":"The competences and skills needed to deliver in Increment in a Sprint.",
          "incorrect_answers":[
-            "Foreigner",
-            "Steely Dan",
-            "Journey"
+            "One Lead Developer and no more than 8 other members.",
+            "At least one representative from each major department, such as, Quality, Assurance, Development, and Marketing."
+            
          ]
       },
       {
