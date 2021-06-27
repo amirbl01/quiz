@@ -1,1040 +1,994 @@
-
 {
-    "response_code":0,
-    "results":[
-       {
-          "category":"PSM 1",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"What does it mean to say that an event has a timebox?   ",
-          "correct_answer":"The event can take no more than a maximum amount of time.",
-          "incorrect_answers":[
-             "The event must happen by a given time.",
-             "The event must happen at a set time.",
-             "The event must take at least a minimum amount of time."
-          ]
-       },
-       {
-          "category":"PSM1",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"When many Scrum Teams are working on a single product, what best describes the Definition of Done?",
-          "correct_answer":"Each Scrum Team defines and uses its own, the differences are discussed and reconciled during a hardening Sprint",
-          "incorrect_answers":[
-             "The Scrum Masters from each Scrum Team define a common Definition of Done.",
-             "Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.",
-             "All Scrum Teams must have a Definition of Done that makes their combined work potentially."
-             
-          ]
-       },
-       {
-          "category":"Science & Nature",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the quality of the product. What are two good options for the Scrum Master?",
-          "correct_answer":"Encourage the Product Owner to put quality specifications on the Product Backlog and express the stakeholder’s concern to the Developers",
-          "incorrect_answers":[
+   "response_code":0,
+   "results":[
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What does it mean to say that an event has a timebox?   ",
+         "correct_answer":"The event can take no more than a maximum amount of time.",
+         "incorrect_answers":[
+            "The event must happen by a given time.",
+            "The event must happen at a set time.",
+            "The event must take at least a minimum amount of time."
+         ]
+      },
+      {
+         "category":"PSM1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When many Scrum Teams are working on a single product, what best describes the Definition of Done?",
+         "correct_answer":"Each Scrum Team defines and uses its own, the differences are discussed and reconciled during a hardening Sprint",
+         "incorrect_answers":[
+            "The Scrum Masters from each Scrum Team define a common Definition of Done.",
+            "Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.",
+            "All Scrum Teams must have a Definition of Done that makes their combined work potentially."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the quality of the product. What are two good options for the Scrum Master?",
+         "correct_answer":"Encourage the Product Owner to put quality specifications on the Product Backlog and express the stakeholder’s concern to the Developers",
+         "incorrect_answers":[
             "Coach the Product Owner on how to talk with the Developers about this concern.",
             "Wait to bring this up until the Sprint Retrospective.",
             "Explain to the Product Owner that it is up to the Developers to decide on acceptable quality standards.",
             "Bring the concern to the testers to improve how the Product is verified"
-            
-          ]
-       },
-       {
-          "category":"Celebrities",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"The length of a Sprint should be:",
-          "correct_answer":"All of the above",
-          "incorrect_answers":[
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The length of a Sprint should be:",
+         "correct_answer":"All of the above",
+         "incorrect_answers":[
             "Short enough to keep the business risk acceptable to the Product Owner.",
             "Short enough to be able to synchronize the development work with other business events.",
             "No more than one calendar month."
-            
-          ]
-       },
-       {
-          "category":"History",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"Which statement best describes the Sprint Review?",
-          "correct_answer":"It is when the Scrum Team and stakeholders inspect the out come of a Sprint and figure out what to do next.",
-          "incorrect_answers":[
-             "It is a mechanism to control the Developers activities a Sprint.",
-             "It is used to congratulate the Developers if they complete their forecast or to punish the Developers if they fail to meet their forecast.",
-             "It is a demo at the end of the Sprint for everyone in the organization to check on the work done."
-          ]
-       },
-       {
-          "category":"Sports",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"A Scrum Team is a cohesive unit of professionals that consists of which of the following?",
-          "correct_answer":"One Product Owner.",
-          "incorrect_answers":[
-             "Developers.",
-             "Customers.",
-             "One Scrum Master.",
-             "Users."
-          ]
-       },
-       {
-          "category":"Entertainment: Video Games",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"Why do the Developers need a Sprint Goal?",
-          "correct_answer":"The Developers are more focused with a common yet specific goal",
-          "incorrect_answers":[
-             "A Sprint Goal only gives purpose to Sprint 0",
-             "Sprint Goals are mnot valuable. Everything is known from the Product Backlog.",
-             "A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented."
-             
-          ]
-       },
-       
-       
-       {
-          "category":"Entertainment: Video Games",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"What activities would a Product Owner typically undertake in the period between the end of the current Sprint and the start of the next Sprint?",
-          "correct_answer":"There are no such activities. The next Sprint starts immediately after the current Sprint.",
-          "incorrect_answers":[
-             "Work with the Quality Assurances departments on the Increment of the current Sprint.",
-             "Update the project plan with stakeholders.",
-             "Refine the Product Backlog."
-          ]
-       },
-       {
-          "category":"Entertainment: Music",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"The IT manager asks a Scrum Team for a status report describing the progress throughout the Sprint. The Scrum Team asks the Scrum Master for advice. The Scrum Master should:",
-          "correct_answer":"Talk to the IT manager and explain that progress in Scrum comes from Inspecting an Increment at the Sprint Review.",
-          "incorrect_answers":[
-             "Tell the Developers to fit the report into the Sprint Backlog.",
-             "Ask the Product Owner to send the manager report.",
-             "Create and deliver the report to the manager himself.",
-             "Tell the Scrum Team to figure it out themselves. "
-        
-          ]
-       }
-             ,
-       {
-          "category":"Entertainment: Music",
-          "type":"multiple",
-          "difficulty":"easy",
-          "question":"How should a Scrum Team deal with non-functional requirements?",
-          "correct_answer":"Make sure the release department understands these requirements, but it is not the Scrum Team’s responsibility.",
-          "incorrect_answers":[
-             "Make sure the release department understands these requirements, but it is not the Scrum.",
-             "Manage them during the integration Sprint prior to the Release Sprint.",
-             "Assign them to the lead developers on the team."
-          ]
-       },      {
-        "category":"PSM 1",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Who creates the Definition of Done?",
-        "correct_answer":"The event can take no more than a maximum amount of time.",
-        "incorrect_answers":[
-           "The Scrum Team.",
-           "The Developers.",
-           "The Product Owner."
-        ]
-     },
-     {
-        "category":"Entertainment: Music",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Who must attend the Daily Scrum?",
-        "correct_answer":"The Developers.",
-        "incorrect_answers":[
-           "The Developers and Product Owner.",
-           "The Scrum Master and Product Owner.",
-           "The Scrum Team.",
-           "The Developers and Scrum Master."
-           
-        ]
-     },
-     {
-        "category":"Science & Nature",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Which technique is the best way the Scrum Master can ensure that the Developers communicate effectively with the Product Owner?",
-        "correct_answer":"Teach the Developers to talk in terms of business needs and objectives.",
-        "incorrect_answers":[
-          "Monitor communications between them and facilitate direct collaboration.",
-          "Teach the Product Owner about the technologies employed during the Sprints",
-          "Function as a go-between for them."
-        
-          
-        ]
-     },
-     {
-        "category":"Celebrities",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"What is the purpose of a Sprint Review?",
-        "correct_answer":"To inspect the product Increment with the stakeholders and collect feedback on next steps.",
-        "incorrect_answers":[
-          "To review the Scrum Team’s activities and processes during the Sprint.",
-          "To build team spirit.",
-          "To take time to judge the validity of the project."
-          
-        ]
-     },
-     {
-        "category":"History",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Five new Scrum Teams have been created to build one product. A few of the Developers on one of the Scrum Teams ask the Scrum Master How to coordinate their work with the other teams.",
-        "correct_answer":"Teach them that it is their responsibility to work with the other teams to create an integrated Increment that is inclusive of all five team’s work.",
-        "incorrect_answers":[
-           "Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.",
-           "Visit the five teams each day to inspect that their Sprint Backlogs are aligned.",
-           "Teach the Product Owner to work with the lead developers on ordering Product backlog in a way to avoid too much overlap during a Sprint."
-        ]
-     },
-     {
-        "category":"Sports",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"When Developers are having trouble delivering in Increment because they do not understand a functional requirement, what should they do?",
-        "correct_answer":"Collaborate with the Product Owner to determine what is possible and acceptable.",
-        "incorrect_answers":[
-           "Partially complete the functionality, and discuss the remaining work at the Sprint Review.",
-           "Defer the work to a more appropriate Sprint.",
-           "Add a specialist to the Development Team."
-        ]
-     },
-     {
-        "category":"Entertainment: Video Games",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"What enhances the transparency of an Increment?",
-        "correct_answer":"Doing all work needed to meet the Definition of Done.",
-        "incorrect_answers":[
-           "Reporting Sprint progress to the stakeholders daily.",
-           "Updating Sprint tasks properly in the electronic tracking tool.",
-           "Keeping track of and estimating all undone work to be completed in a “hardening” Sprint."
-        ]
-     },
-     {
-        "category":"Entertainment: Video Games",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Who is on the Scrum Team?",
-        "correct_answer":"Scrum Master.",
-        "incorrect_answers":[
-           "Product Owner.",
-           "Developers.",
-           "Project Manager.",
-           "None of the above."
-        ]
-     },
-     {
-        "category":"Entertainment: Video Games",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"Who does the work to make sure Product Backlog items conform to the Definition of Done?",
-        "correct_answer":"The Developers.",
-        "incorrect_answers":[
-           "The Product owner",
-           "The Quality Assurance Team.",
-           "The Scrum Team.",
-           "The Scrum Master. "
-        ]
-     },
-     {
-        "category":"Entertainment: Music",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"How much work is required of the Developers to complete a Product Backlog item selected during the Sprint Planning?",
-        "correct_answer":"As much as is required to meet the Scrum Team’s Definition of Done.",
-        "incorrect_answers":[
-           "All the development work and at least some testing.",
-           "As much as they can fit into the Sprint, with remaining work deferred to the next Sprint.",
-           "A proportional amount of time on analysis, design, development and testing."
-        ]
-     }
-           ,      {
-            "category":"PSM 1",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"Which of the following are appropriate topics for discussion during a Sprint Retrospective?",
-            "correct_answer":"How the team collaborates.",
-            "incorrect_answers":[
-               "Documenting acceptance criteria for items in the next Sprint.",
-               "Identifying high priority process improvements for the next Sprint.",
-               "The order of items in the Product Backlog."
-            ]
-         },
-         {
-            "category":"Entertainment: Music",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"What is the timebox for the Sprint Planning Event?",
-            "correct_answer":"8 hours for a one-month Sprint.",
-            "incorrect_answers":[
-               "Monthly.",
-               "Whenever it is done.",
-               "4 hour for a one-month Sprint."
-               
-            ]
-         },
-         {
-            "category":"Science & Nature",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint?",
-            "correct_answer":"Yes, in order to accurately inspect what is done.",
-            "incorrect_answers":[
-              "No, that is far too hard and must be done in a hardening Sprint.",
-              "No, each Scrum Team stands alone.",
-              "Yes, but only for Scrum Teams whose work has dependencies."
-              
-              
-            ]
-         },
-         {
-            "category":"Celebrities",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"You are the Scrum Master of a new, to be developed Product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams?",
-            "correct_answer":"How will we make sure all teams have the right amount of expertise?",
-            "incorrect_answers":[
-              "Who are the subject matter experts on each team?",
-              "What is the right mixture of senior and junior people an each team?",
-              "Who are going to be the team leads?"
-              
-            ]
-         },
-         {
-            "category":"History",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"Which two things should the Scrum Team do during the first Sprint?",
-            "correct_answer":"Create an Increment of potentially releasable software.",
-            "incorrect_answers":[
-               "Make up a plan for the rest of the project.",
-               "Analyze, describe, and document the requirements for the subsequent Sprints.",
-               "Define the major product features and release plan architecture.",
-               "Develop at least one piece of functionality."
-            ]
-         },
-         {
-            "category":"Sports",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"The Definition of Done serves which three purposes?",
-            "correct_answer":"Increase transparency.",
-            "incorrect_answers":[
-               "Describe the purpose, objective, and timebox of each Scrum event.",
-               "Describe the work that must be done before the Sprint is allowed to end.",
-               "Guide the Developers on how many Product Backlog items to select for the Sprint.",
-               "Create a shared understanding of when work is complete."
-            ]
-         },
-         {
-            "category":"Entertainment: Video Games",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"Which Scrum Values are violated by building Product Backlog items that have low business value?",
-            "correct_answer":"Courage.",
-            "incorrect_answers":[
-               "Economic value Added",
-               "Focus.",
-               "Earned value.",
-               "Respect"
-            ]
-         },
-         {
-            "category":"Entertainment: Video Games",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"Which two ways of creating Scrum Teams are consistent with Scrum’s values?",
-            "correct_answer":"Existing teams propose how they would like to go out about organizing into the new structure.",
-            "incorrect_answers":[
-               "Managers personally re-assign current subordinates to new teams.",
-               "The chief Product Owner determines the new team structures and assignments.",
-               "Managers collaborate to assign individuals to specific teams.",
-               "Bring all the people together and let them organize into  Scrum Teams."
-            ]
-         },
-         {
-            "category":"Entertainment: Video Games",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"What is the accountability of Product Owner during Sprint 0?",
-            "correct_answer":"There is no such thing as Sprint 0.",
-            "incorrect_answers":[
-               "Create the overall release plan to ensure that organizational goals are met.",
-               "Make sure enough Production Backlog items are refined to fill the first 3 Sprints.",
-               "Determine the composition of the Scrum Team to meet the release plan.",
-               "Gathering, eliciting, and analyzing the requirements to build the Product Backlog."
-            ]
-         },
-         {
-            "category":"Entertainment: Music",
-            "type":"multiple",
-            "difficulty":"easy",
-            "question":"When the Developers determine that they will not be able to finish the complete forecast, who has to be present when reviewing ad adjusting the Sprint work selected?",
-            "correct_answer":"The Product Owner and the Developers.",
-            "incorrect_answers":[
-               "The Product Owner and all the stakeholders.",
-               "The Scrum Master, project manager and the Developers.",
-               "The Scrum Master and the Developers."
-            ]
-         }
-               ,      {
-                "category":"PSM 1",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"True or False: A high performance Scrum Team ensures that each Increment is complete by running a Release Sprint.",
-                "correct_answer":"False.",
-                "incorrect_answers":[
-                   "True "
-                   
-                   
-                ]
-             },
-             {
-                "category":"Entertainment: Music",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"Who is the responsible for engaging stakeholders?",
-                "correct_answer":"The Scrum Team.",
-                "incorrect_answers":[
-                   "The Developers.",
-                   "The business Analyst.",
-                   "The Project Manager.",
-                   "The Team Manager."
-                   
-                ]
-             },
-             {
-                "category":"Science & Nature",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"True or False: Cross-functional teams are optimized to work on one component or layer of a system only.",
-                "correct_answer":"False ",
-                "incorrect_answers":[
-                  "True"
-                  
-                  
-
-                  
-                ]
-             },
-             {
-                "category":"Celebrities",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"What is the timebox for the Sprint Review?",
-                "correct_answer":"4 hours for a one-month Sprint.",
-                "incorrect_answers":[
-                  "1 day.",
-                  "As long as needed.",
-                  "2 hours for a one-month Sprint."
-                  
-                ]
-             },
-             {
-                "category":"History",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"During Sprint Planning the Product Owner and the Developers are unable to reach an understanding about the highest order Product Backlog items. Because of this, the Developers are unable to determine how many Product Backlog items they can forecast for the upcoming Sprint. However, the Product Owner and the Developers are able to agree on a Sprint Goal.",
-                "correct_answer":"Forecast the Product Backlog items that are most likely to meet the Sprint Goal and create the Sprint Backlog. Conclude Sprint Planning and start the development work. Continue to analyze, decompose, and create additional functionality during the Sprint.",
-                "incorrect_answers":[
-                   "During the next Sprint Retrospective discuss why this happened and what changes will make it less likely to recur.",
-                   "Ask everyone to take as much times as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.",
-                   "Cancel the Sprint. Send the entire team to an advanced Scrum training and then start the new Sprint.",
-                   "During the next Sprint Retrospective discuss why this happened and what changes will make it less likely to recur.",
-                   "Continue the Sprint Planning event past its timebox until an adequate number of Product Backlog items are well enough understood for the Developers to make a complete forecast. Then start the Sprint."
-                ]
-             },
-             {
-                "category":"Sports",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"A product Owner wants advice from the Scrum Master about estimating work in Scrum. What guidance should a Scrum Master give?",
-                "correct_answer":"Estimates are made by the Product Owner, but are best checked with the Developers.",
-                "incorrect_answers":[
-                   "Product Backlog items must be estimated in story points.",
-                   "Estimates are made by the people doing the work.",
-                   "Scrum forbids estimating.",
-                   "Estimates must be in relative units."
-                ]
-             },
-             {
-                "category":"Entertainment: Video Games",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"The Developers ask their Product Owner to re-order the Product Backlog. The Team is waiting for an external supplier to deliver a component. Without that component there will not be enough work in the next Sprint to occupy the full team. As the scrum Master, what advice would you give the Product Owner?",
-                "correct_answer":"Remind the Product Owner that their primary concern is the flow of value reflected in the ordering of the Product Backlog.",
-                "incorrect_answers":[
-                   "Tell the Product Owner to re-order the Product Backlog so the work involving the external component can be planned in a separate sprint.",
-                   "Tell the Product Owner that the Product Backlog should be ordered to maximize utilization of the Developers."
-            
-                ]
-             },
-             {
-                "category":"Entertainment: Video Games",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"When do Developers take ownership of a Sprint Backlog item?",
-                "correct_answer":"Never, all Sprint Backlog items are “owned” by the entire Scrum Team.",
-                "incorrect_answers":[
-                   "During the daily Scrum.",
-                   "Whenever a team member can accommodate more work.",
-                   "At the Sprint Planning Event."
-                ]
-             },
-             {
-                "category":"Entertainment: Video Games",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"Choose two responsibilities of self-managing Developers.",
-                "correct_answer":"Pull Product Backlog items for the Sprint.",
-                "incorrect_answers":[
-                   "Increase velocity.",
-                   "Report daily progress to stakeholders.",
-                   "Do the work planned in the Sprint Backlog.",
-                   "Reorder the Product Backlog."
-                ]
-             },
-             {
-                "category":"Entertainment: Music",
-                "type":"multiple",
-                "difficulty":"easy",
-                "question":"If burndown charts are used to visualize progress, what do they track?",
-                "correct_answer":"Work remaining across time.",
-                "incorrect_answers":[
-                   "Accumulated business value delivered to the customer.",
-                   "Accumulated cost.",
-                   "Individual worker productivity."
-                ]
-             }
-                   ,      {
-                    "category":"PSM 1",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"What are two ways that regulatory compliance issues are dealt with in Scrum?",
-                    "correct_answer":"They are added to the Product Backlog and addressed in early Sprints, while always requiring at least some business functionality, no matter how small.",
-                    "incorrect_answers":[
-                       "They are discussed, determined, and documented before the actual feature development Sprints.",
-                       "They are addressed by a separate team who is responsible for compliance issues.",
-                       "They are addressed along with functional development of the product."
-                    ]
-                 },
-                 {
-                    "category":"Entertainment: Music",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog?",
-                    "correct_answer":"As soon as possible after it is identified.",
-                    "incorrect_answers":[
-                       "When the Scrum Master has time to enter it.",
-                       "During the Daily Scrum after the Developers approve it.",
-                       "When the Product Owner identifies new work."
-                       
-                    ]
-                 },
-                 {
-                    "category":"Science & Nature",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"What is the main reason for the Scrum Master to be at the Daily Scrum?",
-                    "correct_answer":"He or she doest not have to be there, he or she only has to ensure the Developers have Daily Scrum.",
-                    "incorrect_answers":[
-                      "To make sure every team member answers the three questions.",
-                      "To gather status and progress information to report to management.",
-                      "To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the bum-down."
-                      
-                      
-                    ]
-                 },
-                 {
-                    "category":"Celebrities",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"True or false: Developers do not meet with stakeholders; only the Product Owner meets with stakeholders.",
-                    "correct_answer":"False ",
-                    "incorrect_answers":[
-                      "True"
-                      
-                      
-                    ]
-                 },
-                 {
-                    "category":"History",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"What techniques could the Scrum Master use when the Scrum Team gets caught In an internal disagreement about which agile practices to apply?",
-                    "correct_answer":"Use coaching techniques, such as open questions and active listening.",
-                    "incorrect_answers":[
-                       "Ask team members to take the issue up with the company’s Human Resources department.",
-                       "Ask an external agile coach what they recommend.",
-                       "Involve the complete Scrum Team in making a decision."
-                    ]
-                 },
-                 {
-                    "category":"Sports",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"Which phrase best describes a Product Owner?",
-                    "correct_answer":"Value optimizer.",
-                    "incorrect_answers":[
-                       "Go-between for the Developers and the customers.",
-                       "Requirements engineer.",
-                       "Team manager."
-                    ]
-                 },
-                 {
-                    "category":"Entertainment: Video Games",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"As the Sprint Planning progresses, the Developers realize that the workload may be greater than their capacity to complete the work. Which two are valid actions?",
-                    "correct_answer":"The Developers ensure that the Scrum Team is aware, start the Sprint, and monitor progress.",
-                    "incorrect_answers":[
-                       "Cancel the Sprint.",
-                       "The developers work overtime during the Sprint.",
-                       "Remove or change selected Product Backlog items.",
-                       "Recruit additional Developers before the work can begin."
-                    ]
-                 },
-                 {
-                    "category":"Entertainment: Video Games",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"Which of the following is a Developer accountable for?",
-                    "correct_answer":"Creating a plan for the Sprint, the Sprint Backlog.",
-                    "incorrect_answers":[
-                       "Selecting the Product Owner.",
-                       "Reporting productivity.",
-                       "Organizing the work required to meet the Sprint Goal."
-                    ]
-                 },
-                 {
-                    "category":"Entertainment: Video Games",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"True or false: the Product Owner makes sure the Developers select enough from the Product Backlog for a Sprint to satisfy the stakeholders.",
-                    "correct_answer":"False",
-                    "incorrect_answers":[
-                       "True"
-                    ]
-                       
-                 },
-                 {
-                    "category":"Entertainment: Music",
-                    "type":"multiple",
-                    "difficulty":"easy",
-                    "question":"Developers are self-managing, which of the following do they manage?",
-                    "correct_answer":"Sprint Backlog.",
-                    "incorrect_answers":[
-                       "Stakeholders for the Sprint Review",
-                       "Product Backlog ordering.",
-                       "When to release, based on its progress.",
-                       "Sprint length."
-                    ]
-                 }
-                       ,      {
-                        "category":"PSM 1",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"The Scrum Master observes the Product Owner struggling with ordering the Product Backlog. What is an appropriate action for the Scrum Master to take?",
-                        "correct_answer":"Offer the Product Owner help in understanding that the goal of ordering the Product Backlog is to maximize value.",
-                        "incorrect_answers":[
-                           "Encourage the Product Owner to work with the Developers to see which items technically are fastest to implement.",
-                           "Suggest the Product Owner extend the Sprint, so he can have more time to order the Product Backlog.",
-                           "Present the Product Owner with an ordered Product Backlog to use.",
-                           "Suggest that the Developers order the Product Backlog to be sure that it is a feasible ordering of work."
-                        ]
-                     },
-                     {
-                        "category":"Entertainment: Music",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"A Scrum Master is introducing Scrum to a new team. The Team has decided that a Sprint Retrospective is unnecessary, what action should the Scrum Master take?",
-                        "correct_answer":"Begin facilitating productive and useful Sprint Retrospective.",
-                        "incorrect_answers":[
-                           "Consult with the Product Owner to see how they feel about the situation.",
-                           "Call a meeting between the Scrum Team and senior management.",
-                           "Comply with the decision of the self-managing team."
-                           
-                        ]
-                     },
-                     {
-                        "category":"Science & Nature",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"What are the two primary ways a Scrum Master helps a Scrum Team work at its highest level of productivity?",
-                        "correct_answer":"By removing impediments that hinder the Scrum Team.",
-                        "incorrect_answers":[
-                          "By facilitating Scrum Training decisions.",
-                          "By keeping high value features high in the Product Backlog.",
-                          "By ensuring the meetings start and end at the proper time."
-                          
-                        ]
-                     },
-                     {
-                        "category":"Celebrities",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"For which of the following is the Scrum Master responsible?",
-                        "correct_answer":"Properly adopting and using the Scrum framework.",
-                        "incorrect_answers":[
-                          "Keeping track of resource allocation.",
-                          "Managing the performance of the Scrum Team.",
-                          "The meetings and the objectives that a Scrum Team sets for itself."
-                          
-                        ]
-                     },
-                     {
-                        "category":"History",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"The meetings and the objectives that a Scrum Team sets for itself.",
-                        "correct_answer":"Ensure the team understands they need a Definition of Done.",
-                        "incorrect_answers":[
-                           "Have the manager for each Developer introduce their direct reports and go over their responsibilities on the Scrum Team.",
-                           "Ask the Product Owner to discuss the Product, its vision, history, goals, and context, as well answer questions.",
-                           "Ensure the Scrum Team members have compatible personalities.",
-                           "Introduce a bonus system for the top performers in the team."
-                        ]
-                     },
-                     {
-                        "category":"Sports",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"A Sprint Retrospective should be held:",
-                        "correct_answer":"At the end of each Sprint.",
-                        "incorrect_answers":[
-                           "At the best of the last Sprint in a project or a release.",
-                           "Only when the Scrum Team determines it needs one.",
-                           "At the beginning of each Sprint."
-                        ]
-                     },
-                     {
-                        "category":"Entertainment: Video Games",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"The product Backlog is ordered by: ",
-                        "correct_answer":"The Product Owner with the most valuable items placed at the top.",
-                        "incorrect_answers":[
-                           "Items are randomly arranged.",
-                           "Size, where small items are at top and large items are at the bottom.",
-                           "Risk, where safer items are at the top, and riskier items are at the bottom."
-                        ]
-                     },
-                     {
-                        "category":"Entertainment: Video Games",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"What are three ways Scrum Promotes self-management?",
-                        "correct_answer":"By the Scrum Team deciding what work to do in a Sprint.",
-                        "incorrect_answers":[
-                           "By Having the Scrum Master posted the Scrum Team from interruptions.",
-                           "By removing titles for Scrum Team members.",
-                           "By being a lightweight framework."
-                        ]
-                     },
-                     {
-                        "category":"Entertainment: Video Games",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"What is the Product Owner responsible for during the Sprint Retrospective?",
-                        "correct_answer":"Participating as a Scrum Team member.",
-                        "incorrect_answers":[
-                           "Summarizing and reporting the discussions to the stakeholders that they represent in the Scrum Team.",
-                           "The Product Owner should not take part in Sprint Retrospective.",
-                           "Capturing requirements for the Product Backlog."
-                        ]
-                     },
-                     {
-                        "category":"Entertainment: Music",
-                        "type":"multiple",
-                        "difficulty":"easy",
-                        "question":"How is management that is external to the Scrum Team Involved in the Daily Scrum?",
-                        "correct_answer":"Managers are not required at the daily Scrum.",
-                        "incorrect_answers":[
-                           "The product Owner represents their opinions.",
-                           "The Scrum Master speaks on their behalf.",
-                           "Management gives update at the start of each Daily Scrum."
-                        ]
-                     }
-                           ,      {
-                            "category":"PSM 1",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"True or False: An Increment must be released to customers or users at the end of each Sprint.",
-                            "correct_answer":"False ",
-                            "incorrect_answers":[
-                               "True "
-                               
-                               
-                            ]
-                         },
-                         {
-                            "category":"Entertainment: Music",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"Which best describes the Product Backlog?",
-                            "correct_answer":"It is allowed to grow and change as more is learned about the product and its customers.",
-                            "incorrect_answers":[
-                               "It contains all foreseeable tasks and requirements from which the Scrum Team can develop and maintain a complete project plan.",
-                               "It is baselined to follow change management processes.",
-                               "It provides just enough information to enable a Scrum Team to start the design phase of a product."
-                               
-                            ]
-                         },
-                         {
-                            "category":"Science & Nature",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"Which three of following are feedback loops in Scrum?",
-                            "correct_answer":"Daily Scrum.",
-                            "incorrect_answers":[
-                              "Release Planning.",
-                              "Sprint Review.",
-                              "Sprint Retrospective.",
-                              "Refinement meeting."
-                              
-                            ]
-                         },
-                         {
-                            "category":"Celebrities",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"Which of the following are true about the Product Owner?",
-                            "correct_answer":"The Product Owner is one person.",
-                            "incorrect_answers":[
-                              "The Product Owner is accountable for ordering the Product Backlog.",
-                              "The Product Owner can be represented by a committee or a team of people.",
-                              "The Scrum Team can have multiple Product Owners."
-                              
-                            ]
-                         },
-                         {
-                            "category":"History",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"Why does the Product Owner want the Developers to adhere to its Definition of Done?",
-                            "correct_answer":"To have complete transparency into what has been done at the end of each Sprint.",
-                            "incorrect_answers":[
-                               "To predict the team’s productivity over time.",
-                               "To know what the team will deliver over the next three Sprints.",
-                               "To be able to reprimand the team when they do not meet their velocity for the Sprint."
-                            ]
-                         },
-                         {
-                            "category":"Sports",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?",
-                            "correct_answer":"Ask the people to divide themselves into teams.",
-                            "incorrect_answers":[
-                               "Create teams based on their skills across multiple layers (such as database, UI,etc..)",
-                               "Ask the Production Owner to assign the people to learn."
-                               
-                            ]
-                         },
-                         {
-                            "category":"Entertainment: Video Games",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"Why is the Daily Scrum held at the same time and same place?",
-                            "correct_answer":"The consistency reduces complexity.",
-                            "incorrect_answers":[
-                               "The product Owner demands it.",
-                               "The place can be named.",
-                               "Rooms are hard to book and must be booked in advance."
-                            ]
-                         },
-                         {
-                            "category":"Entertainment: Video Games",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"A Scrum Team is experiencing a growing list of Impediments. Which techniques would be most helpful in this situation?",
-                            "correct_answer":"The Scrum Master discusses the impediments with the Scrum Team.",
-                            "incorrect_answers":[
-                               "The product Owner should add the open impediments to the Product Backlog.",
-                               "Arrange a triage meeting with management.",
-                               "As a Scrum Team, prioritize the list and work on them in order."
-                            ]
-                         },
-                         {
-                            "category":"Entertainment: Video Games",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"What are two effective ways for a Scrum Team to ensure security concerns are satisfied?",
-                            "correct_answer":"Add security concerns to the Definition of Done ",
-                            "incorrect_answers":[
-                               "Delegate the work to the security department.",
-                               "Have the Scrum Team create Product Backlog items for each concern.",
-                               "Add a Sprint to specifically resolve all security concerns.",
-                               "Postpone the work until a specialist can perform a security audit and create a list of security-related Product Backlog items."
-                            ]
-                         },
-                         {
-                            "category":"Entertainment: Music",
-                            "type":"multiple",
-                            "difficulty":"easy",
-                            "question":"What is the key concern when multiple Scrum Teams are working from the same Product Backlog? ",
-                            "correct_answer":"Making sure there is enough work for everyone on each team.",
-                            "incorrect_answers":[
-                               "Making sure there is enough work for everyone on each team.",
-                               "Maximizing velocity.",
-                               "Clear definition of requirements.",
-                               "Meeting original scope projections."
-                            ]
-                         }
-                               ,      {
-                                "category":"PSM 1",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"Who determines how work is performed during the Sprint?",
-                                "correct_answer":"The Developers.",
-                                "incorrect_answers":[
-                                   "Team Manager.",
-                                   "Subject matter experts.",
-                                   "The Scrum Master.",
-                                   "The Scrum Team."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Music",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"When many Scrum Teams are working on a single product, what best describes the Definition of Done?",
-                                "correct_answer":"Each Scrum Team defines and uses its own, the differences are discussed and reconciled during a hardening Sprint",
-                                "incorrect_answers":[
-                                   "The Scrum Masters from each Scrum Team define a common Definition of Done.",
-                                   "Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.",
-                                   "All Scrum Teams must have a Definition of Done that makes their combined work potentially."
-                                   
-                                ]
-                             },
-                             {
-                                "category":"Science & Nature",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum?",
-                                "correct_answer":"Identification of impediments that may prevent the Developers from achieving the Sprint Goal.",
-                                "incorrect_answers":[
-                                  "An update of completed tasks and of the remaining work so the Scrum Master can plan the next day.",
-                                  "A shared understanding of the most important work to be undertaken next to achieve the best possible progress toward the Sprint goal.",
-                                  "An updated Scrum board to make Sprint progress transparent for the stakeholders.",
-                                  "A status report for the upper management indicating what each individual has done, will be doing, and what impeding him/her."
-                                  
-                                ]
-                             },
-                             {
-                                "category":"Celebrities",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"At the seventh Sprint Review, the stakeholders are disappointed and angry. They have determined that the product or system being built will not meet their needs and will cost mare than they are willing to spend. What factors let to this?",
-                                "correct_answer":"The Product Owner has not been keeping the stakeholders aware of the progress of the project.",
-                                "incorrect_answers":[
-                                  "The stakeholders were not allowed to prioritize Product Backlog items.",
-                                  "The stakeholders have not been using the Sprint Reviews to inspect and evaluate progress.",
-                                  "The Project Management Office (PMO) has not been engaged adequately."
-                                  
-                                ]
-                             },
-                             {
-                                "category":"History",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"Which of the following are topics for the Developers to discuss at the daily Scrum as they inspect their progress toward the Sprint Goal?",
-                                "correct_answer":"Are there any decisions that need to be made to maintain progress toward the Sprint Goal?",
-                                "incorrect_answers":[
-                                   "How many hours did I spend on the project yesterday?",
-                                   "What have we learned since yesterday and how should we modify our plan to increase our ability to meet the Sprint Goal?",
-                                   "Why were you late? ",
-                                   "Will today’s work negatively impact our ability to meet the Sprint Goal for the Sprint following this one?"
-                                ]
-                             },
-                             {
-                                "category":"Sports",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"What are two effective ways for the Scrum Team to make non-functional requirements visible?",
-                                "correct_answer":"Add them to the Product Backlog to ensure transparency.",
-                                "incorrect_answers":[
-                                   "Run the integration and regression test before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint. ",
-                                   "Add them to the Definition of Done so the work is taken care of every Sprint.",
-                                   "Put them on a separate list on the Scrum board, available for all to see."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Video Games",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"Which of the following might the Scrum Team discuss during a Sprint Retrospective?",
-                                "correct_answer":"All of the above.",
-                                "incorrect_answers":[
-                                   "Methods of communication.",
-                                   "The way the Scrum team does Sprint Planning.",
-                                   "Skills needed to improve the Developers ability to deliver.",
-                                   "The Definition of Done."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Video Games",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"As the Developers start work during the Sprint, they realize they have selected too much work finish in the Sprint. What should they do?",
-                                "correct_answer":"As soon as possible in the Sprint, work with the Product Owner to remove some work or Product Backlog items.",
-                                "incorrect_answers":[
-                                   "Reduce the Definition of Done and get all of the Product Backlog items done by the new definition.",
-                                   "Find another Scrum Team to give the excess work to.",
-                                   "Inform the Product Owner at the Sprint Review, but prior to the demonstration."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Video Games",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Selected two conditions you should strive for this scenario.",
-                                "correct_answer":"There should be only Product Owner.",
-                                "incorrect_answers":[
-                                   "There should be six Product Owners, reporting to a Chief Product Owner.",
-                                   "Each Scrum Team should have a separate Product Backlog.",
-                                   "There should be six Product Owners, one for each Scrum Team.",
-                                   "The Product has one Product Backlog."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Video Games",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"Who should make sure everyone on the Scrum Team does their tasks for the Sprint? ",
-                                "correct_answer":"The Scrum Team.",
-                                "incorrect_answers":[
-                                   "The project Manager.",
-                                   "The product Owner.",
-                                   "The Scrum Master.",
-                                   "All of the above."
-                                ]
-                             },
-                             {
-                                "category":"Entertainment: Video Games",
-                                "type":"multiple",
-                                "difficulty":"easy",
-                                "question":"Who is part of the discussion about which Product Backlog items are selected for a Sprint? ",
-                                "correct_answer":"The Scrum Team.",
-                                "incorrect_answers":[
-                                   "The Developers.",
-                                   "The product Owner.",
-                                   "The Scrum Master."
-                                
-                                ]
-                             }
-                             
-                                   
-    ]
- }
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which statement best describes the Sprint Review?",
+         "correct_answer":"It is when the Scrum Team and stakeholders inspect the out come of a Sprint and figure out what to do next.",
+         "incorrect_answers":[
+            "It is a mechanism to control the Developers activities a Sprint.",
+            "It is used to congratulate the Developers if they complete their forecast or to punish the Developers if they fail to meet their forecast.",
+            "It is a demo at the end of the Sprint for everyone in the organization to check on the work done."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"A Scrum Team is a cohesive unit of professionals that consists of which of the following?",
+         "correct_answer":"One Product Owner.",
+         "incorrect_answers":[
+            "Developers.",
+            "Customers.",
+            "One Scrum Master.",
+            "Users."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Why do the Developers need a Sprint Goal?",
+         "correct_answer":"The Developers are more focused with a common yet specific goal",
+         "incorrect_answers":[
+            "A Sprint Goal only gives purpose to Sprint 0",
+            "Sprint Goals are mnot valuable. Everything is known from the Product Backlog.",
+            "A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What activities would a Product Owner typically undertake in the period between the end of the current Sprint and the start of the next Sprint?",
+         "correct_answer":"There are no such activities. The next Sprint starts immediately after the current Sprint.",
+         "incorrect_answers":[
+            "Work with the Quality Assurances departments on the Increment of the current Sprint.",
+            "Update the project plan with stakeholders.",
+            "Refine the Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The IT manager asks a Scrum Team for a status report describing the progress throughout the Sprint. The Scrum Team asks the Scrum Master for advice. The Scrum Master should:",
+         "correct_answer":"Talk to the IT manager and explain that progress in Scrum comes from Inspecting an Increment at the Sprint Review.",
+         "incorrect_answers":[
+            "Tell the Developers to fit the report into the Sprint Backlog.",
+            "Ask the Product Owner to send the manager report.",
+            "Create and deliver the report to the manager himself.",
+            "Tell the Scrum Team to figure it out themselves. "
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How should a Scrum Team deal with non-functional requirements?",
+         "correct_answer":"Make sure the release department understands these requirements, but it is not the Scrum Team’s responsibility.",
+         "incorrect_answers":[
+            "Make sure the release department understands these requirements, but it is not the Scrum.",
+            "Manage them during the integration Sprint prior to the Release Sprint.",
+            "Assign them to the lead developers on the team."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who creates the Definition of Done?",
+         "correct_answer":"The event can take no more than a maximum amount of time.",
+         "incorrect_answers":[
+            "The Scrum Team.",
+            "The Developers.",
+            "The Product Owner."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who must attend the Daily Scrum?",
+         "correct_answer":"The Developers.",
+         "incorrect_answers":[
+            "The Developers and Product Owner.",
+            "The Scrum Master and Product Owner.",
+            "The Scrum Team.",
+            "The Developers and Scrum Master."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which technique is the best way the Scrum Master can ensure that the Developers communicate effectively with the Product Owner?",
+         "correct_answer":"Teach the Developers to talk in terms of business needs and objectives.",
+         "incorrect_answers":[
+            "Monitor communications between them and facilitate direct collaboration.",
+            "Teach the Product Owner about the technologies employed during the Sprints",
+            "Function as a go-between for them."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the purpose of a Sprint Review?",
+         "correct_answer":"To inspect the product Increment with the stakeholders and collect feedback on next steps.",
+         "incorrect_answers":[
+            "To review the Scrum Team’s activities and processes during the Sprint.",
+            "To build team spirit.",
+            "To take time to judge the validity of the project."
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Five new Scrum Teams have been created to build one product. A few of the Developers on one of the Scrum Teams ask the Scrum Master How to coordinate their work with the other teams.",
+         "correct_answer":"Teach them that it is their responsibility to work with the other teams to create an integrated Increment that is inclusive of all five team’s work.",
+         "incorrect_answers":[
+            "Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.",
+            "Visit the five teams each day to inspect that their Sprint Backlogs are aligned.",
+            "Teach the Product Owner to work with the lead developers on ordering Product backlog in a way to avoid too much overlap during a Sprint."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When Developers are having trouble delivering in Increment because they do not understand a functional requirement, what should they do?",
+         "correct_answer":"Collaborate with the Product Owner to determine what is possible and acceptable.",
+         "incorrect_answers":[
+            "Partially complete the functionality, and discuss the remaining work at the Sprint Review.",
+            "Defer the work to a more appropriate Sprint.",
+            "Add a specialist to the Development Team."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What enhances the transparency of an Increment?",
+         "correct_answer":"Doing all work needed to meet the Definition of Done.",
+         "incorrect_answers":[
+            "Reporting Sprint progress to the stakeholders daily.",
+            "Updating Sprint tasks properly in the electronic tracking tool.",
+            "Keeping track of and estimating all undone work to be completed in a “hardening” Sprint."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who is on the Scrum Team?",
+         "correct_answer":"Scrum Master.",
+         "incorrect_answers":[
+            "Product Owner.",
+            "Developers.",
+            "Project Manager.",
+            "None of the above."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who does the work to make sure Product Backlog items conform to the Definition of Done?",
+         "correct_answer":"The Developers.",
+         "incorrect_answers":[
+            "The Product owner",
+            "The Quality Assurance Team.",
+            "The Scrum Team.",
+            "The Scrum Master. "
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How much work is required of the Developers to complete a Product Backlog item selected during the Sprint Planning?",
+         "correct_answer":"As much as is required to meet the Scrum Team’s Definition of Done.",
+         "incorrect_answers":[
+            "All the development work and at least some testing.",
+            "As much as they can fit into the Sprint, with remaining work deferred to the next Sprint.",
+            "A proportional amount of time on analysis, design, development and testing."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which of the following are appropriate topics for discussion during a Sprint Retrospective?",
+         "correct_answer":"How the team collaborates.",
+         "incorrect_answers":[
+            "Documenting acceptance criteria for items in the next Sprint.",
+            "Identifying high priority process improvements for the next Sprint.",
+            "The order of items in the Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the timebox for the Sprint Planning Event?",
+         "correct_answer":"8 hours for a one-month Sprint.",
+         "incorrect_answers":[
+            "Monthly.",
+            "Whenever it is done.",
+            "4 hour for a one-month Sprint."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint?",
+         "correct_answer":"Yes, in order to accurately inspect what is done.",
+         "incorrect_answers":[
+            "No, that is far too hard and must be done in a hardening Sprint.",
+            "No, each Scrum Team stands alone.",
+            "Yes, but only for Scrum Teams whose work has dependencies."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"You are the Scrum Master of a new, to be developed Product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams?",
+         "correct_answer":"How will we make sure all teams have the right amount of expertise?",
+         "incorrect_answers":[
+            "Who are the subject matter experts on each team?",
+            "What is the right mixture of senior and junior people an each team?",
+            "Who are going to be the team leads?"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which two things should the Scrum Team do during the first Sprint?",
+         "correct_answer":"Create an Increment of potentially releasable software.",
+         "incorrect_answers":[
+            "Make up a plan for the rest of the project.",
+            "Analyze, describe, and document the requirements for the subsequent Sprints.",
+            "Define the major product features and release plan architecture.",
+            "Develop at least one piece of functionality."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The Definition of Done serves which three purposes?",
+         "correct_answer":"Increase transparency.",
+         "incorrect_answers":[
+            "Describe the purpose, objective, and timebox of each Scrum event.",
+            "Describe the work that must be done before the Sprint is allowed to end.",
+            "Guide the Developers on how many Product Backlog items to select for the Sprint.",
+            "Create a shared understanding of when work is complete."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which Scrum Values are violated by building Product Backlog items that have low business value?",
+         "correct_answer":"Courage.",
+         "incorrect_answers":[
+            "Economic value Added",
+            "Focus.",
+            "Earned value.",
+            "Respect"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which two ways of creating Scrum Teams are consistent with Scrum’s values?",
+         "correct_answer":"Existing teams propose how they would like to go out about organizing into the new structure.",
+         "incorrect_answers":[
+            "Managers personally re-assign current subordinates to new teams.",
+            "The chief Product Owner determines the new team structures and assignments.",
+            "Managers collaborate to assign individuals to specific teams.",
+            "Bring all the people together and let them organize into  Scrum Teams."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the accountability of Product Owner during Sprint 0?",
+         "correct_answer":"There is no such thing as Sprint 0.",
+         "incorrect_answers":[
+            "Create the overall release plan to ensure that organizational goals are met.",
+            "Make sure enough Production Backlog items are refined to fill the first 3 Sprints.",
+            "Determine the composition of the Scrum Team to meet the release plan.",
+            "Gathering, eliciting, and analyzing the requirements to build the Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When the Developers determine that they will not be able to finish the complete forecast, who has to be present when reviewing ad adjusting the Sprint work selected?",
+         "correct_answer":"The Product Owner and the Developers.",
+         "incorrect_answers":[
+            "The Product Owner and all the stakeholders.",
+            "The Scrum Master, project manager and the Developers.",
+            "The Scrum Master and the Developers."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"True or False: A high performance Scrum Team ensures that each Increment is complete by running a Release Sprint.",
+         "correct_answer":"False.",
+         "incorrect_answers":[
+            "True "
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who is the responsible for engaging stakeholders?",
+         "correct_answer":"The Scrum Team.",
+         "incorrect_answers":[
+            "The Developers.",
+            "The business Analyst.",
+            "The Project Manager.",
+            "The Team Manager."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"True or False: Cross-functional teams are optimized to work on one component or layer of a system only.",
+         "correct_answer":"False ",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the timebox for the Sprint Review?",
+         "correct_answer":"4 hours for a one-month Sprint.",
+         "incorrect_answers":[
+            "1 day.",
+            "As long as needed.",
+            "2 hours for a one-month Sprint."
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"During Sprint Planning the Product Owner and the Developers are unable to reach an understanding about the highest order Product Backlog items. Because of this, the Developers are unable to determine how many Product Backlog items they can forecast for the upcoming Sprint. However, the Product Owner and the Developers are able to agree on a Sprint Goal.",
+         "correct_answer":"Forecast the Product Backlog items that are most likely to meet the Sprint Goal and create the Sprint Backlog. Conclude Sprint Planning and start the development work. Continue to analyze, decompose, and create additional functionality during the Sprint.",
+         "incorrect_answers":[
+            "During the next Sprint Retrospective discuss why this happened and what changes will make it less likely to recur.",
+            "Ask everyone to take as much times as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.",
+            "Cancel the Sprint. Send the entire team to an advanced Scrum training and then start the new Sprint.",
+            "During the next Sprint Retrospective discuss why this happened and what changes will make it less likely to recur.",
+            "Continue the Sprint Planning event past its timebox until an adequate number of Product Backlog items are well enough understood for the Developers to make a complete forecast. Then start the Sprint."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"A product Owner wants advice from the Scrum Master about estimating work in Scrum. What guidance should a Scrum Master give?",
+         "correct_answer":"Estimates are made by the Product Owner, but are best checked with the Developers.",
+         "incorrect_answers":[
+            "Product Backlog items must be estimated in story points.",
+            "Estimates are made by the people doing the work.",
+            "Scrum forbids estimating.",
+            "Estimates must be in relative units."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The Developers ask their Product Owner to re-order the Product Backlog. The Team is waiting for an external supplier to deliver a component. Without that component there will not be enough work in the next Sprint to occupy the full team. As the scrum Master, what advice would you give the Product Owner?",
+         "correct_answer":"Remind the Product Owner that their primary concern is the flow of value reflected in the ordering of the Product Backlog.",
+         "incorrect_answers":[
+            "Tell the Product Owner to re-order the Product Backlog so the work involving the external component can be planned in a separate sprint.",
+            "Tell the Product Owner that the Product Backlog should be ordered to maximize utilization of the Developers."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When do Developers take ownership of a Sprint Backlog item?",
+         "correct_answer":"Never, all Sprint Backlog items are “owned” by the entire Scrum Team.",
+         "incorrect_answers":[
+            "During the daily Scrum.",
+            "Whenever a team member can accommodate more work.",
+            "At the Sprint Planning Event."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Choose two responsibilities of self-managing Developers.",
+         "correct_answer":"Pull Product Backlog items for the Sprint.",
+         "incorrect_answers":[
+            "Increase velocity.",
+            "Report daily progress to stakeholders.",
+            "Do the work planned in the Sprint Backlog.",
+            "Reorder the Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"If burndown charts are used to visualize progress, what do they track?",
+         "correct_answer":"Work remaining across time.",
+         "incorrect_answers":[
+            "Accumulated business value delivered to the customer.",
+            "Accumulated cost.",
+            "Individual worker productivity."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What are two ways that regulatory compliance issues are dealt with in Scrum?",
+         "correct_answer":"They are added to the Product Backlog and addressed in early Sprints, while always requiring at least some business functionality, no matter how small.",
+         "incorrect_answers":[
+            "They are discussed, determined, and documented before the actual feature development Sprints.",
+            "They are addressed by a separate team who is responsible for compliance issues.",
+            "They are addressed along with functional development of the product."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog?",
+         "correct_answer":"As soon as possible after it is identified.",
+         "incorrect_answers":[
+            "When the Scrum Master has time to enter it.",
+            "During the Daily Scrum after the Developers approve it.",
+            "When the Product Owner identifies new work."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the main reason for the Scrum Master to be at the Daily Scrum?",
+         "correct_answer":"He or she doest not have to be there, he or she only has to ensure the Developers have Daily Scrum.",
+         "incorrect_answers":[
+            "To make sure every team member answers the three questions.",
+            "To gather status and progress information to report to management.",
+            "To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the bum-down."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"True or false: Developers do not meet with stakeholders; only the Product Owner meets with stakeholders.",
+         "correct_answer":"False ",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What techniques could the Scrum Master use when the Scrum Team gets caught In an internal disagreement about which agile practices to apply?",
+         "correct_answer":"Use coaching techniques, such as open questions and active listening.",
+         "incorrect_answers":[
+            "Ask team members to take the issue up with the company’s Human Resources department.",
+            "Ask an external agile coach what they recommend.",
+            "Involve the complete Scrum Team in making a decision."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which phrase best describes a Product Owner?",
+         "correct_answer":"Value optimizer.",
+         "incorrect_answers":[
+            "Go-between for the Developers and the customers.",
+            "Requirements engineer.",
+            "Team manager."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"As the Sprint Planning progresses, the Developers realize that the workload may be greater than their capacity to complete the work. Which two are valid actions?",
+         "correct_answer":"The Developers ensure that the Scrum Team is aware, start the Sprint, and monitor progress.",
+         "incorrect_answers":[
+            "Cancel the Sprint.",
+            "The developers work overtime during the Sprint.",
+            "Remove or change selected Product Backlog items.",
+            "Recruit additional Developers before the work can begin."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which of the following is a Developer accountable for?",
+         "correct_answer":"Creating a plan for the Sprint, the Sprint Backlog.",
+         "incorrect_answers":[
+            "Selecting the Product Owner.",
+            "Reporting productivity.",
+            "Organizing the work required to meet the Sprint Goal."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"True or false: the Product Owner makes sure the Developers select enough from the Product Backlog for a Sprint to satisfy the stakeholders.",
+         "correct_answer":"False",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Developers are self-managing, which of the following do they manage?",
+         "correct_answer":"Sprint Backlog.",
+         "incorrect_answers":[
+            "Stakeholders for the Sprint Review",
+            "Product Backlog ordering.",
+            "When to release, based on its progress.",
+            "Sprint length."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The Scrum Master observes the Product Owner struggling with ordering the Product Backlog. What is an appropriate action for the Scrum Master to take?",
+         "correct_answer":"Offer the Product Owner help in understanding that the goal of ordering the Product Backlog is to maximize value.",
+         "incorrect_answers":[
+            "Encourage the Product Owner to work with the Developers to see which items technically are fastest to implement.",
+            "Suggest the Product Owner extend the Sprint, so he can have more time to order the Product Backlog.",
+            "Present the Product Owner with an ordered Product Backlog to use.",
+            "Suggest that the Developers order the Product Backlog to be sure that it is a feasible ordering of work."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"A Scrum Master is introducing Scrum to a new team. The Team has decided that a Sprint Retrospective is unnecessary, what action should the Scrum Master take?",
+         "correct_answer":"Begin facilitating productive and useful Sprint Retrospective.",
+         "incorrect_answers":[
+            "Consult with the Product Owner to see how they feel about the situation.",
+            "Call a meeting between the Scrum Team and senior management.",
+            "Comply with the decision of the self-managing team."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What are the two primary ways a Scrum Master helps a Scrum Team work at its highest level of productivity?",
+         "correct_answer":"By removing impediments that hinder the Scrum Team.",
+         "incorrect_answers":[
+            "By facilitating Scrum Training decisions.",
+            "By keeping high value features high in the Product Backlog.",
+            "By ensuring the meetings start and end at the proper time."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"For which of the following is the Scrum Master responsible?",
+         "correct_answer":"Properly adopting and using the Scrum framework.",
+         "incorrect_answers":[
+            "Keeping track of resource allocation.",
+            "Managing the performance of the Scrum Team.",
+            "The meetings and the objectives that a Scrum Team sets for itself."
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The meetings and the objectives that a Scrum Team sets for itself.",
+         "correct_answer":"Ensure the team understands they need a Definition of Done.",
+         "incorrect_answers":[
+            "Have the manager for each Developer introduce their direct reports and go over their responsibilities on the Scrum Team.",
+            "Ask the Product Owner to discuss the Product, its vision, history, goals, and context, as well answer questions.",
+            "Ensure the Scrum Team members have compatible personalities.",
+            "Introduce a bonus system for the top performers in the team."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"A Sprint Retrospective should be held:",
+         "correct_answer":"At the end of each Sprint.",
+         "incorrect_answers":[
+            "At the best of the last Sprint in a project or a release.",
+            "Only when the Scrum Team determines it needs one.",
+            "At the beginning of each Sprint."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The product Backlog is ordered by: ",
+         "correct_answer":"The Product Owner with the most valuable items placed at the top.",
+         "incorrect_answers":[
+            "Items are randomly arranged.",
+            "Size, where small items are at top and large items are at the bottom.",
+            "Risk, where safer items are at the top, and riskier items are at the bottom."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What are three ways Scrum Promotes self-management?",
+         "correct_answer":"By the Scrum Team deciding what work to do in a Sprint.",
+         "incorrect_answers":[
+            "By Having the Scrum Master posted the Scrum Team from interruptions.",
+            "By removing titles for Scrum Team members.",
+            "By being a lightweight framework."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the Product Owner responsible for during the Sprint Retrospective?",
+         "correct_answer":"Participating as a Scrum Team member.",
+         "incorrect_answers":[
+            "Summarizing and reporting the discussions to the stakeholders that they represent in the Scrum Team.",
+            "The Product Owner should not take part in Sprint Retrospective.",
+            "Capturing requirements for the Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How is management that is external to the Scrum Team Involved in the Daily Scrum?",
+         "correct_answer":"Managers are not required at the daily Scrum.",
+         "incorrect_answers":[
+            "The product Owner represents their opinions.",
+            "The Scrum Master speaks on their behalf.",
+            "Management gives update at the start of each Daily Scrum."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"True or False: An Increment must be released to customers or users at the end of each Sprint.",
+         "correct_answer":"False ",
+         "incorrect_answers":[
+            "True "
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which best describes the Product Backlog?",
+         "correct_answer":"It is allowed to grow and change as more is learned about the product and its customers.",
+         "incorrect_answers":[
+            "It contains all foreseeable tasks and requirements from which the Scrum Team can develop and maintain a complete project plan.",
+            "It is baselined to follow change management processes.",
+            "It provides just enough information to enable a Scrum Team to start the design phase of a product."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which three of following are feedback loops in Scrum?",
+         "correct_answer":"Daily Scrum.",
+         "incorrect_answers":[
+            "Release Planning.",
+            "Sprint Review.",
+            "Sprint Retrospective.",
+            "Refinement meeting."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which of the following are true about the Product Owner?",
+         "correct_answer":"The Product Owner is one person.",
+         "incorrect_answers":[
+            "The Product Owner is accountable for ordering the Product Backlog.",
+            "The Product Owner can be represented by a committee or a team of people.",
+            "The Scrum Team can have multiple Product Owners."
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Why does the Product Owner want the Developers to adhere to its Definition of Done?",
+         "correct_answer":"To have complete transparency into what has been done at the end of each Sprint.",
+         "incorrect_answers":[
+            "To predict the team’s productivity over time.",
+            "To know what the team will deliver over the next three Sprints.",
+            "To be able to reprimand the team when they do not meet their velocity for the Sprint."
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?",
+         "correct_answer":"Ask the people to divide themselves into teams.",
+         "incorrect_answers":[
+            "Create teams based on their skills across multiple layers (such as database, UI,etc..)",
+            "Ask the Production Owner to assign the people to learn."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Why is the Daily Scrum held at the same time and same place?",
+         "correct_answer":"The consistency reduces complexity.",
+         "incorrect_answers":[
+            "The product Owner demands it.",
+            "The place can be named.",
+            "Rooms are hard to book and must be booked in advance."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"A Scrum Team is experiencing a growing list of Impediments. Which techniques would be most helpful in this situation?",
+         "correct_answer":"The Scrum Master discusses the impediments with the Scrum Team.",
+         "incorrect_answers":[
+            "The product Owner should add the open impediments to the Product Backlog.",
+            "Arrange a triage meeting with management.",
+            "As a Scrum Team, prioritize the list and work on them in order."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What are two effective ways for a Scrum Team to ensure security concerns are satisfied?",
+         "correct_answer":"Add security concerns to the Definition of Done ",
+         "incorrect_answers":[
+            "Delegate the work to the security department.",
+            "Have the Scrum Team create Product Backlog items for each concern.",
+            "Add a Sprint to specifically resolve all security concerns.",
+            "Postpone the work until a specialist can perform a security audit and create a list of security-related Product Backlog items."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the key concern when multiple Scrum Teams are working from the same Product Backlog? ",
+         "correct_answer":"Making sure there is enough work for everyone on each team.",
+         "incorrect_answers":[
+            "Making sure there is enough work for everyone on each team.",
+            "Maximizing velocity.",
+            "Clear definition of requirements.",
+            "Meeting original scope projections."
+         ]
+      },
+      {
+         "category":"PSM 1",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who determines how work is performed during the Sprint?",
+         "correct_answer":"The Developers.",
+         "incorrect_answers":[
+            "Team Manager.",
+            "Subject matter experts.",
+            "The Scrum Master.",
+            "The Scrum Team."
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"When many Scrum Teams are working on a single product, what best describes the Definition of Done?",
+         "correct_answer":"Each Scrum Team defines and uses its own, the differences are discussed and reconciled during a hardening Sprint",
+         "incorrect_answers":[
+            "The Scrum Masters from each Scrum Team define a common Definition of Done.",
+            "Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.",
+            "All Scrum Teams must have a Definition of Done that makes their combined work potentially."
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum?",
+         "correct_answer":"Identification of impediments that may prevent the Developers from achieving the Sprint Goal.",
+         "incorrect_answers":[
+            "An update of completed tasks and of the remaining work so the Scrum Master can plan the next day.",
+            "A shared understanding of the most important work to be undertaken next to achieve the best possible progress toward the Sprint goal.",
+            "An updated Scrum board to make Sprint progress transparent for the stakeholders.",
+            "A status report for the upper management indicating what each individual has done, will be doing, and what impeding him/her."
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"At the seventh Sprint Review, the stakeholders are disappointed and angry. They have determined that the product or system being built will not meet their needs and will cost mare than they are willing to spend. What factors let to this?",
+         "correct_answer":"The Product Owner has not been keeping the stakeholders aware of the progress of the project.",
+         "incorrect_answers":[
+            "The stakeholders were not allowed to prioritize Product Backlog items.",
+            "The stakeholders have not been using the Sprint Reviews to inspect and evaluate progress.",
+            "The Project Management Office (PMO) has not been engaged adequately."
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which of the following are topics for the Developers to discuss at the daily Scrum as they inspect their progress toward the Sprint Goal?",
+         "correct_answer":"Are there any decisions that need to be made to maintain progress toward the Sprint Goal?",
+         "incorrect_answers":[
+            "How many hours did I spend on the project yesterday?",
+            "What have we learned since yesterday and how should we modify our plan to increase our ability to meet the Sprint Goal?",
+            "Why were you late? ",
+            "Will today’s work negatively impact our ability to meet the Sprint Goal for the Sprint following this one?"
+         ]
+      },
+      {
+         "category":"Sports",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What are two effective ways for the Scrum Team to make non-functional requirements visible?",
+         "correct_answer":"Add them to the Product Backlog to ensure transparency.",
+         "incorrect_answers":[
+            "Run the integration and regression test before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint. ",
+            "Add them to the Definition of Done so the work is taken care of every Sprint.",
+            "Put them on a separate list on the Scrum board, available for all to see."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which of the following might the Scrum Team discuss during a Sprint Retrospective?",
+         "correct_answer":"All of the above.",
+         "incorrect_answers":[
+            "Methods of communication.",
+            "The way the Scrum team does Sprint Planning.",
+            "Skills needed to improve the Developers ability to deliver.",
+            "The Definition of Done."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"As the Developers start work during the Sprint, they realize they have selected too much work finish in the Sprint. What should they do?",
+         "correct_answer":"As soon as possible in the Sprint, work with the Product Owner to remove some work or Product Backlog items.",
+         "incorrect_answers":[
+            "Reduce the Definition of Done and get all of the Product Backlog items done by the new definition.",
+            "Find another Scrum Team to give the excess work to.",
+            "Inform the Product Owner at the Sprint Review, but prior to the demonstration."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Selected two conditions you should strive for this scenario.",
+         "correct_answer":"There should be only Product Owner.",
+         "incorrect_answers":[
+            "There should be six Product Owners, reporting to a Chief Product Owner.",
+            "Each Scrum Team should have a separate Product Backlog.",
+            "There should be six Product Owners, one for each Scrum Team.",
+            "The Product has one Product Backlog."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who should make sure everyone on the Scrum Team does their tasks for the Sprint? ",
+         "correct_answer":"The Scrum Team.",
+         "incorrect_answers":[
+            "The project Manager.",
+            "The product Owner.",
+            "The Scrum Master.",
+            "All of the above."
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who is part of the discussion about which Product Backlog items are selected for a Sprint? ",
+         "correct_answer":"The Scrum Team.",
+         "incorrect_answers":[
+            "The Developers.",
+            "The product Owner.",
+            "The Scrum Master."
+         ]
+      }
+   ]
+}
